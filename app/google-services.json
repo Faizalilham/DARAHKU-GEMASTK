@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625396642450",
+    "project_id": "boreal-matrix-366307",
+    "storage_bucket": "boreal-matrix-366307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625396642450:android:a48be5cef8a936790dac4b",
+        "android_client_info": {
+          "package_name": "com.example.donordarah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625396642450-5n9htk5e14b7jqq18qsjvgnjghe47gai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTOSnSe4dMs2WBTcl99BTAuZtSxxyj98g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625396642450-5n9htk5e14b7jqq18qsjvgnjghe47gai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

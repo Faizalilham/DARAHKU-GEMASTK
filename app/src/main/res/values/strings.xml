@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Donor Darah</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZmFpemFsaWxoYW0iLCJhIjoiY2w5OXBzZDk1M2ozYzN2cDgxNDl2dW02ciJ9.zbc8_kT6XrVbqY7Anxt_Vg</string>
+    <string name="hi_everyone">Hi, Everyone</string>
+    <string name="how_do_you_feel_today">How do you feel today</string>
+    <string name="search">Search</string>
+    <string name="check_blood_availability">check blood availability</string>
+    <string name="hospital">Hospital</string>
+    <string name="maps">Maps</string>
+    <string name="check_location">Check Location</string>
+    <string name="top_blood_bag">Top blood bag</string>
+    <string name="rumah_sakit_umum_soesilo">Rumah Sakit Umum Soesilo</string>
+    <string name="location_for_blood_donation">Location for blood donation</string>
+    <string name="check_availability_of_blood_bags">Check availability of blood bags</string>
+    <string name="choose_blood_bag">Choose blood bag :</string>
+    <string name="description">Description</string>
+    <string name="google_maps_api_key">AIzaSyBQ5uYmGeGtz79tN-6RQ6FjSQ1j9hQyWw0</string>
+    <string name="choose_blood_type">Choose Blood type</string>
+
+    <string-array name="list_passing">
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+</resources>
